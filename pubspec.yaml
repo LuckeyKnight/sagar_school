@@ -1,0 +1,62 @@
+name: sagar_school
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  carousel_slider: ^4.2.1
+  smooth_page_indicator: ^1.2.0+3
+  flutter:
+    sdk: flutter
+  video_player: ^2.9.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0 
+  flutter_launcher_icons: ^0.14.2
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/ic_launcher.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/Screenshot 2024-12-05 221752.png
+    - assets/1.jpg
+    - assets/2.jpg
+    - assets/3.jpg
+    - assets/4.jpg
+    - assets/our.png
+    - assets/a.png
+    - assets/b.png
+    - assets/c.png
+    - assets/d.png
+    - assets/e.png
+    - assets/f.png
+    - assets/g.png
+    - assets/abus.jpg
+    - assets/awards.jpg
+    - assets/a1.jpg
+    - assets/a2.jpg
+    - assets/a3.jpg
+    - assets/a4.jpg
+    - assets/a5.jpg
+    - assets/moto.jpg
+    - assets/testtime.jpg
+    - assets/playstore.jpg
+    - assets/me.jpg
+    - assets/contact.jpg
+    - assets/icon/ic_launcher.png
+    - assets/qr.png
+    - assets/career.png
+    - assets/join.png
+    - assets/current.png
+    - assets/ca.jpg
+    - assets/cont.jpg
+    - assets/founder.jpg
